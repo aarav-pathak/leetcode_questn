@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0134-gas-station](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0134-gas-station) |
 | [0904-fruit-into-baskets](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-last-stone-weight](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1046-last-stone-weight) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0134-gas-station) |
 | [1710-maximum-units-on-a-truck](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1710-maximum-units-on-a-truck) |
 ## Binary Lifting
 |  |
