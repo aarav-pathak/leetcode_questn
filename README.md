@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0904-fruit-into-baskets) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0055-jump-game) |
 | [1710-maximum-units-on-a-truck](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1710-maximum-units-on-a-truck) |
 ## Binary Lifting
 |  |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
