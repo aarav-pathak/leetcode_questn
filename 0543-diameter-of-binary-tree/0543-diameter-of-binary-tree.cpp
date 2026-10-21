@@ -10,24 +10,22 @@
  * };
  */
 class Solution {
-    int best=0;
-
-    int h(TreeNode* root){
-        if(!root)return 0;
-
-        int l=h(root->left);
-        int r=h(root->right);
-
-        best=max(best,l+r);
-
-        return 1+max(l,r);
-    }
 public:
-    int diameterOfBinaryTree(TreeNode* root) {
- best=0;
- h(root);
- return best;
+int h(TreeNode* r,int &d){
+   if(!r)return 0;
 
+    int l=h(r->left,d);
+    int R=h(r->right,d);
+
+    d =max(d,l+R);
+    return max(l,R)+1;
+}
+    int diameterOfBinaryTree(TreeNode* r) {
+
+        int d=0;
+        h(r,d);
+
+        return d;
         
     }
 };
