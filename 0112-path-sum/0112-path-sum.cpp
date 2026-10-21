@@ -10,30 +10,18 @@
  * };
  */
 class Solution {
+public:
+    bool hasPathSum(TreeNode* r, int ts) {
+        if(!r)return false;
 
-    bool dfs(TreeNode* root,int cs,int ts){
-
-        if(!root)return false;
-
-        cs+=root->val;
-
-        if(!root->left && !root->right){
-            return cs==ts;
+        if(!r->left && !r->right){
+            return ts==r->val;
         }
 
-        return dfs(root->left,cs,ts)||dfs(root->right,cs,ts);
+        bool ls=hasPathSum(r->left,ts-r->val);
+        bool rs=hasPathSum(r->right,ts-r->val);
 
-
-
-    }
-   
-public:
-    bool hasPathSum(TreeNode* root, int ts) {
-
-        return dfs(root,0,ts);
-
-      
-
+        return ls||rs;
         
     }
 };
